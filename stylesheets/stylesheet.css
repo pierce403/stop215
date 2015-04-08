@@ -527,8 +527,8 @@ a.button {
   color: #fff;
 }
 a.button small {
-  display: block;
-  font-size: 11px;
+  /*  display: block;
+  font-size: 11px; */
 }
 header a.button {
   position: absolute;
